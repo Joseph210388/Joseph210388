@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="" width="200">
   <h1 align="center">Bienvenido 👋, soy Joseph Valderrama</h1>
-  <p align="center">Un apassionado desarrollador de aplicaciones web. Le gusta la creación de paginas web. Conocimiento de HTML, CSS, JavaScript y JAVA.</p>
+  <p align="center">A passionate web application developer from Peru living in Spain. I like the creation of web pages, so I will leave some of my projects here to help if someone needs it. Knowledge of HTML, CSS, JavaScript and JAVA.</p>
 </div>
 
 
