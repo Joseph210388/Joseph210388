@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="" width="200">
+  <h1 align="center">Bienvenido 👋, soy Joseph Valderrama</h1>
+
+</div>
+
 
 <!--
 **Joseph210388/Joseph210388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
