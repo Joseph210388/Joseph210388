@@ -95,10 +95,10 @@
 <div align="center">
   <div style="display: flex; gap: 15px;">
       <a href="https://github.com/Joseph210388?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joseph210388&show_icons=true&theme=dark" height="200" width="150" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Joseph210388&show_icons=true&theme=dark" height="200" width="250" alt="stats"/>
   </a>
   <a href="https://github.com/Joseph210388?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph210388&layout=compact&theme=dark" height="200" width="150" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph210388&layout=compact&theme=dark" height="200" width="250" alt="stats"/>
   </a>
   </div>
       <a href="https://wakatime.com/@Goblin8888">
