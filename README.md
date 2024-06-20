@@ -94,12 +94,12 @@
 #### Some stats!
 <div align="center">
   <div style="display: flex; gap: 15px;">
-    <a href="https://github.com/Joseph210388?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=Joseph210388&show_icons=true&theme=dark" height="150" alt="stats"/>
-    </a>
-    <a href="https://github.com/Joseph210388?tab=stars">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph210388&layout=compact&theme=dark" height="150" alt="stats"/>
-    </a>
+      <a href="https://github.com/Joseph210388?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joseph210388&show_icons=true&theme=dark" height="200" style="height: 200px; width: auto;" alt="stats"/>
+  </a>
+  <a href="https://github.com/Joseph210388?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph210388&layout=compact&theme=dark" height="200" style="height: 200px; width: auto;" alt="stats"/>
+  </a>
   </div>
       <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseph210388&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="95%" alt="activity graph">
