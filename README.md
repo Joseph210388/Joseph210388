@@ -6,14 +6,15 @@
     </samp>
   </h2>
   <p align="center">
-    A passionate Full Stack Web Developer from Peru living in Spain 🇪🇸.<br>
-    Specialised in <strong>Angular</strong> and <strong>NestJS</strong> for corporate applications, with hands-on experience in <strong>React</strong>, <strong>Next.js</strong>, and modern DevOps practices.<br>
-    I love building scalable web apps and shipping real product value 💻.
+    Full Stack Web Developer based in Spain 🇪🇸, originally from Peru 🇵🇪.<br>
+    2+ years of professional experience building corporate applications with <strong>Angular</strong> and <strong>NestJS</strong>.<br>
+    Hands-on experience with <strong>React</strong>, <strong>Next.js</strong>, and modern DevOps practices.<br>
+    I integrate AI tooling into my daily workflow to ship better code, faster 🤖💻.<br><br>
+    💼 <strong>Open to remote opportunities worldwide</strong>
   </p>
 </div>
 
 <br>
-
 
 <p align="center"><strong>Languages</strong></p>
 
@@ -32,7 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
 </div>
-
 
 <p align="center"><strong>Frontend</strong></p>
 
@@ -74,8 +74,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
 </div>
 
 <p align="center"><strong>Tools & Editors</strong></p>
@@ -92,7 +90,18 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
 </div>
 
-</br>
+<p align="center"><strong>AI & LLM Tools</strong></p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github copilot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="cursor logo" />
+</div>
+<p align="center">
+  <samp>Claude Code &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Cursor &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Ollama</samp>
+</p>
+
+<br>
 
 #### Some stats!
 
