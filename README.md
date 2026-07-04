@@ -8,7 +8,7 @@
   <p align="center">
     Full Stack Web Developer based in Spain 🇪🇸, originally from Peru 🇵🇪.<br>
     2+ years of professional experience building corporate applications with <strong>Angular</strong> and <strong>NestJS</strong>.<br>
-    Hands-on experience with <strong>React</strong>, <strong>Next.js</strong>, and modern DevOps practices.<br>
+    Hands-on experience with <strong>React</strong>, <strong>Next.js</strong> and modern DevOps practices.<br>
     I integrate AI tooling into my daily workflow to ship better code, faster 🤖💻.<br><br>
     💼 <strong>Open to remote opportunities worldwide</strong>
   </p>
