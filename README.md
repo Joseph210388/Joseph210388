@@ -92,11 +92,6 @@
 
 <p align="center"><strong>AI & LLM Tools</strong></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github copilot" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="cursor logo" />
-</div>
 <p align="center">
   <samp>Claude Code &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Cursor &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Ollama</samp>
 </p>
